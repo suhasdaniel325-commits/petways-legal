@@ -22,7 +22,7 @@ Repository target:
 
 ## Before Publishing
 
-- Replace `support@petways.app` if a different final support email is chosen.
+- Replace `petwayssupport@gmail.com` if a different final support email is chosen.
 - Review the policy text with legal counsel if needed.
 - Confirm the effective date before submitting to Google Play.
 
